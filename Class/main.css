@@ -1,0 +1,17 @@
+h1 {
+    color:red
+}
+span{
+    background: black;
+    color: white
+}
+
+#header-3 {
+    text-decoration: underline;
+}
+#header-6 {
+    text-decoration: line-through;
+}
+.header {
+    border: 1px solid black
+}
